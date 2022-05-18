@@ -23,4 +23,4 @@ I hope you liked it.
 
 ## PREVIEW
 
-
+![GIF](https://github.com/edwromero/Meal_APP/blob/main/mealApp.gif).
